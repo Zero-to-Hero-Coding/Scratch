@@ -1,0 +1,7 @@
+The project consists of 2 players on a hill - Red and Blue, whose aim is to throw a bomb at the other to reduce their lifeline and win the game before time runs out. 
+1. Player 1 can move using W,S.A,D keys.
+2. Player 2 can do so using Up,Down,Left,Right keys.
+3. Each player gets their turn for 15 seconds only. 
+4. Both player should aim (with a helper 'Arrow') with keys 'O' and 'P' to turn anti-clockwise and clockwise respectively. 
+5. To release the bomb, both player must use the 'space' key. 
+6. The damage from the bomb depends on 2 factors: Direct touch with bomb, and proximity from the explosion. 
